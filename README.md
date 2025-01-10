@@ -7,6 +7,10 @@
 
 ---
 
+![GitHub Snake](https://github.com/Xlvq/Xlvq/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🛠️ Мои навыки:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
