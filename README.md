@@ -9,7 +9,6 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
----
 
 ### 🛠️ Мои навыки:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
